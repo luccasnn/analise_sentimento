@@ -41,4 +41,8 @@ Dataset real de tweets com 31.962 registros, originalmente rotulado para detecç
 
 1. Clique no badge **Open in Colab** acima
 2. Vá em `Runtime > Run all`
-3. Os downloads do NLTK sã
+3. Os downloads do NLTK são feitos automaticamente
+
+## Resultado
+
+![Análise de Sentimento](sentimento_analise.png)
