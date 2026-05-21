@@ -2,7 +2,7 @@
 
 Classificação automática de sentimentos em tweets reais utilizando VADER, uma ferramenta de NLP especializada em textos de redes sociais. O projeto compara a classificação do modelo com os labels reais do dataset.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luccasnn/analise_sentimento/blob/main/analise_sentimento.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luccasnn/analise-sentimento/blob/main/analise_sentimento.ipynb)
 
 ## Como foi feito
 
